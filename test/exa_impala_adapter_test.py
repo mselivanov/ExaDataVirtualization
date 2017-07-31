@@ -1,5 +1,6 @@
 import unittest
-import exa_impala_adapter
+
+from src import exa_impala_adapter
 
 
 class ExaImpalaAdapterTest(unittest.TestCase):

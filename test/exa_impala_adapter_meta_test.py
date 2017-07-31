@@ -1,5 +1,6 @@
 import unittest
-from exa_impala_adapter_meta import AdapterRequestFactory
+
+from src.exa_impala_adapter_meta import AdapterRequestFactory
 
 
 class ExaImpalaAdapterMetaTest(unittest.TestCase):
